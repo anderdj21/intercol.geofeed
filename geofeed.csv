@@ -5,7 +5,7 @@
 # Last-Updated: 2026-03-03
 # Website: https://www.isp-intercol.com
 # This file provides approximate geolocation data for IP prefixes owned and operated by INTERCOL WISP.
-ip_prefix,alpha2code,region,city,postal_code
+# ip_prefix,alpha2code,region,city,postal_code
 204.157.232.0/24,CO,CO-CES,VALLEDUPAR,20001
 38.190.4.0/24,CO,CO-CES,VALLEDUPAR,20001
 38.190.5.0/24,CO,CO-CES,VALLEDUPAR,20001
