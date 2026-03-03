@@ -2,10 +2,9 @@
 # Organization: INTERCOL WISP
 # Contact: contacto@isp-intercol.com
 # Format: RFC 8805
-# Last-Updated: 2025-06-01
+# Last-Updated: 2026-03-03
 # Website: https://www.isp-intercol.com
 # This file provides approximate geolocation data for IP prefixes owned and operated by INTERCOL WISP.
-# for improving the accuracy of Geo:IP lookups
 ip_prefix,alpha2code,region,city,postal_code
 204.157.232.0/24,CO,CO-CES,VALLEDUPAR,20001
 38.190.4.0/24,CO,CO-CES,VALLEDUPAR,20001
