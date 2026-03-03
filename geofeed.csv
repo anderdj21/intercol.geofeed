@@ -1,10 +1,14 @@
 # INTERCOL Geofeed
-# This feed is encoded in RFC 8805 format.
-# Publication date: 2024-03-01
-#
-#This data feed provides approximate geo locations for a subset of
-# INTERCOL IP space, and the data included in this feed may be used only
+# Organization: INTERCOL WISP
+# Contact: contacto@isp-intercol.com
+# Format: RFC 8805
+# Last-Updated: 2025-06-01
+# Website: https://www.isp-intercol.com
+# This file provides approximate geolocation data for IP prefixes owned and operated by INTERCOL WISP.
 # for improving the accuracy of Geo:IP lookups
 #ip_prefix,alpha2code,region,city,postal_code
 204.157.232.0/24,CO,CO-CES,VALLEDUPAR,20001
-38.190.4.0/22,CO,CO-CES,VALLEDUPAR,20001
+38.190.4.0/24,CO,CO-CES,VALLEDUPAR,20001
+38.190.5.0/24,CO,CO-CES,VALLEDUPAR,20001
+38.190.6.0/24,CO,CO-CES,VALLEDUPAR,20001
+38.190.4.0/24,CO,CO-LAG,RIOHACHA,440002
